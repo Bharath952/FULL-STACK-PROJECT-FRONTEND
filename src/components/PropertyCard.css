@@ -1,0 +1,103 @@
+.property-card {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.property-image-wrapper {
+  position: relative;
+  height: 200px;
+  width: 100%;
+}
+
+.property-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.property-condition-badge {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  background-color: var(--card-bg);
+  color: var(--primary-color);
+  padding: 0.3rem 0.8rem;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  box-shadow: var(--shadow-sm);
+}
+
+.property-content {
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.property-title {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.property-location {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.9rem;
+  margin-bottom: 1.5rem;
+}
+
+.property-details {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1.5rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.detail-item {
+  display: flex;
+  flex-direction: column;
+}
+
+.detail-label {
+  font-size: 0.8rem;
+  color: var(--text-light);
+}
+
+.detail-val {
+  font-weight: 600;
+  color: var(--text-dark);
+}
+
+.property-value-section {
+  margin-bottom: 1.5rem;
+  background: rgba(25, 118, 210, 0.05); /* soft blue bg */
+  padding: 1rem;
+  border-radius: var(--radius-sm);
+  border-left: 4px solid var(--secondary-color);
+}
+
+.value-label {
+  font-size: 0.85rem;
+  color: var(--text-light);
+  display: block;
+}
+
+.value-amount {
+  font-size: 1.3rem;
+  color: var(--secondary-color);
+  margin-top: 0.3rem;
+  display: flex;
+  align-items: center;
+}
+
+.w-full {
+  width: 100%;
+}

@@ -1,0 +1,370 @@
+{
+  "app": {
+    "name": "Indian Heritage Explorer"
+  },
+  "monuments": [
+    {
+      "id": "taj-mahal",
+      "name": "Taj Mahal",
+      "location": "Agra, Uttar Pradesh",
+      "category": "UNESCO Sites",
+      "unesco": true,
+      "description": "The Taj Mahal is a white marble mausoleum built by the Mughal emperor Shah Jahan in memory of his wife Mumtaz Mahal. Completed in the 17th century, it is renowned for its symmetry, intricate inlay work, and breathtaking dome and minarets.\n\nOften described as an icon of love and architectural mastery, the Taj Mahal draws visitors from around the world and remains one of India’s most celebrated heritage sites.",
+      "images": [
+        {
+          "src": "https://placehold.co/1200x800/png?text=Taj+Mahal",
+          "alt": "Taj Mahal main view"
+        },
+        {
+          "src": "https://placehold.co/1200x800/png?text=Craftsmanship+of+Taj+Mahal",
+          "alt": "Taj Mahal craftsmanship details"
+        },
+        {
+          "src": "https://placehold.co/1200x800/png?text=Taj+Mahal+at+Sunrise",
+          "alt": "Taj Mahal at sunrise"
+        },
+        {
+          "src": "https://placehold.co/1200x800/png?text=Yamuna+River+View",
+          "alt": "View near Yamuna riverfront"
+        }
+      ],
+      "videoUrl": null,
+      "tourDescription": "Begin your virtual visit at the main gate, then follow the guide toward the central dome—notice how the white marble reflections change with the light.",
+      "comments": [
+        {
+          "name": "Aarav",
+          "message": "The symmetry is mesmerizing. The virtual tour explanation helped a lot."
+        },
+        {
+          "name": "Meera",
+          "message": "Love how the guide highlights the dome details."
+        }
+      ]
+    },
+    {
+      "id": "qutub-minar",
+      "name": "Qutub Minar",
+      "location": "Mehrauli, Delhi",
+      "category": "UNESCO Sites",
+      "unesco": true,
+      "description": "Qutub Minar is a soaring minaret that stands as part of the Qutb complex in Delhi. Built over several phases, it showcases early Indo-Islamic architecture with layered stonework and inscriptions.\n\nAs you explore, focus on the subtle changes in texture and the way the tower’s form transitions as it rises.",
+      "images": [
+        {
+          "src": "https://placehold.co/1200x800/png?text=Qutub+Minar",
+          "alt": "Qutub Minar tower"
+        },
+        {
+          "src": "https://placehold.co/1200x800/png?text=Architectural+Details",
+          "alt": "Architectural details of Qutub Minar"
+        },
+        {
+          "src": "https://placehold.co/1200x800/png?text=Qutb+Complex+Courtyard",
+          "alt": "Qutb complex courtyard"
+        },
+        {
+          "src": "https://placehold.co/1200x800/png?text=Inscriptions+and+Patterns",
+          "alt": "Inscriptions and patterns"
+        }
+      ],
+      "videoUrl": null,
+      "tourDescription": "Take a guided look at the tower’s progression—imagine how each historical phase contributed to its current shape.",
+      "comments": [
+        {
+          "name": "Rohan",
+          "message": "Great introduction for first-time visitors."
+        },
+        {
+          "name": "Zoya",
+          "message": "The guide text makes the architecture feel alive."
+        }
+      ]
+    },
+    {
+      "id": "hampi",
+      "name": "Hampi",
+      "location": "Hampi, Karnataka",
+      "category": "Forts",
+      "unesco": true,
+      "description": "Hampi is a remarkable landscape of ruins that once formed the core of the Vijayanagara Empire. Its massive stone structures, temples, and market streets tell stories of trade, culture, and devotion.\n\nIn this virtual experience, you’ll explore the legacy of a powerful city—crafted with bold architecture and surrounded by dramatic rock formations.",
+      "images": [
+        {
+          "src": "https://placehold.co/1200x800/png?text=Hampi+Ruin+City",
+          "alt": "Hampi ruins cityscape"
+        },
+        {
+          "src": "https://placehold.co/1200x800/png?text=Stone+Temples+of+Hampi",
+          "alt": "Stone temples of Hampi"
+        },
+        {
+          "src": "https://placehold.co/1200x800/png?text=Rock+Formations+Around+Hampi",
+          "alt": "Rock formations around Hampi"
+        },
+        {
+          "src": "https://placehold.co/1200x800/png?text=Festival+Imagery+Inspired+by+Hampi",
+          "alt": "Festival-inspired scene"
+        }
+      ],
+      "videoUrl": null,
+      "tourDescription": "Start with the skyline of ruins, then zoom into the temple architecture—notice how scale and geometry work together across the landscape.",
+      "comments": [
+        {
+          "name": "Kiran",
+          "message": "Hampi’s sense of scale is unbelievable."
+        },
+        {
+          "name": "Sana",
+          "message": "The carousel guide is engaging."
+        }
+      ]
+    },
+    {
+      "id": "red-fort",
+      "name": "Red Fort",
+      "location": "Delhi",
+      "category": "Forts",
+      "unesco": true,
+      "description": "The Red Fort is a historic fortress built by the Mughal emperor Shah Jahan. Its distinctive red sandstone walls, grand gates, and ceremonial spaces represent the power and artistic vision of Mughal rule.\n\nAs you explore, imagine the daily rhythm of a royal capital—then focus on how architecture frames light, movement, and celebration.",
+      "images": [
+        {
+          "src": "https://placehold.co/1200x800/png?text=Red+Fort",
+          "alt": "Red Fort exterior"
+        },
+        {
+          "src": "https://placehold.co/1200x800/png?text=Fort+Gates+and+Walls",
+          "alt": "Fort gates and walls"
+        },
+        {
+          "src": "https://placehold.co/1200x800/png?text=Mughal+Architecture+Details",
+          "alt": "Mughal architecture details"
+        },
+        {
+          "src": "https://placehold.co/1200x800/png?text=Courtyard+Views",
+          "alt": "Courtyard views"
+        }
+      ],
+      "videoUrl": null,
+      "tourDescription": "Follow the guided path from the main entrance to the inner spaces, imagining ceremonies and gatherings within the fort complex.",
+      "comments": [
+        {
+          "name": "Ishaan",
+          "message": "The descriptions feel like a story."
+        },
+        {
+          "name": "Neha",
+          "message": "Nice UI—easy to navigate between sections."
+        }
+      ]
+    },
+    {
+      "id": "konark-sun-temple",
+      "name": "Konark Sun Temple",
+      "location": "Konark, Odisha",
+      "category": "Temples",
+      "unesco": true,
+      "description": "The Konark Sun Temple is celebrated for its grand chariot-like design and exquisite stone carvings. Built as a symbol of the Sun God, the temple’s architecture reflects both artistry and devotion.\n\nThough much of the structure has endured change over time, its carvings and layout remain a powerful testament to ancient Indian craftsmanship.",
+      "images": [
+        {
+          "src": "https://placehold.co/1200x800/png?text=Konark+Sun+Temple",
+          "alt": "Konark Sun Temple"
+        },
+        {
+          "src": "https://placehold.co/1200x800/png?text=Stone+Carvings",
+          "alt": "Stone carvings"
+        },
+        {
+          "src": "https://placehold.co/1200x800/png?text=Chariot+Inspired+Architecture",
+          "alt": "Chariot-inspired architecture"
+        },
+        {
+          "src": "https://placehold.co/1200x800/png?text=Temple+Details+at+Golden+Hour",
+          "alt": "Temple details at golden hour"
+        }
+      ],
+      "videoUrl": null,
+      "tourDescription": "Let the guide lead you through the carvings—imagine the sun’s path as you move from base details upward.",
+      "comments": [
+        {
+          "name": "Prithvi",
+          "message": "Carving details are stunning."
+        },
+        {
+          "name": "Vijaya",
+          "message": "Great for students—simple and informative."
+        }
+      ]
+    },
+    {
+      "id": "ajanta-caves",
+      "name": "Ajanta Caves",
+      "location": "Ajanta, Maharashtra",
+      "category": "UNESCO Sites",
+      "unesco": true,
+      "description": "The Ajanta Caves are known for their rock-cut architecture and stunning murals. Hidden inside a rugged landscape, the caves reveal stories through paintings and sculptural forms.\n\nIn this explorer, you’ll experience the visual journey—starting from the cave entrance and moving toward wall art that captures emotion and movement.",
+      "images": [
+        {
+          "src": "https://placehold.co/1200x800/png?text=Ajanta+Caves",
+          "alt": "Ajanta Caves entrance"
+        },
+        {
+          "src": "https://placehold.co/1200x800/png?text=Mural+Stories",
+          "alt": "Mural stories"
+        },
+        {
+          "src": "https://placehold.co/1200x800/png?text=Rock+Cut+Architecture",
+          "alt": "Rock cut architecture"
+        },
+        {
+          "src": "https://placehold.co/1200x800/png?text=Cave+Courtyard+Views",
+          "alt": "Cave views"
+        }
+      ],
+      "videoUrl": null,
+      "tourDescription": "Begin with the rock-cut doorway, then follow the mural highlights as if you’re walking deeper into the caves.",
+      "comments": [
+        {
+          "name": "Dev",
+          "message": "The guided layout makes it easy to learn."
+        },
+        {
+          "name": "Ananya",
+          "message": "Loved the virtual tour flow."
+        }
+      ]
+    },
+    {
+      "id": "sanchi-stupa",
+      "name": "Sanchi Stupa",
+      "location": "Sanchi, Madhya Pradesh",
+      "category": "UNESCO Sites",
+      "unesco": true,
+      "description": "The Sanchi Stupa is one of the most important Buddhist monuments in India. Its hemispherical dome, beautifully preserved gateways, and carved stories reflect the spiritual and artistic traditions of ancient times.\n\nExplore the monument’s outer ring and gateways to understand how architecture and narrative sculpture work together.",
+      "images": [
+        {
+          "src": "https://placehold.co/1200x800/png?text=Sanchi+Stupa",
+          "alt": "Sanchi Stupa"
+        },
+        {
+          "src": "https://placehold.co/1200x800/png?text=Gateway+Carvings",
+          "alt": "Gateway carvings"
+        },
+        {
+          "src": "https://placehold.co/1200x800/png?text=Ancient+Buddhist+Architecture",
+          "alt": "Buddhist architecture"
+        },
+        {
+          "src": "https://placehold.co/1200x800/png?text=Temple+Courtyard+Scene",
+          "alt": "Courtyard scene"
+        }
+      ],
+      "videoUrl": null,
+      "tourDescription": "Walk around the stupa in your imagination—observe how gateways and carvings add meaning to each side.",
+      "comments": [
+        {
+          "name": "Samarth",
+          "message": "This made Buddhist art easier to visualize."
+        },
+        {
+          "name": "Tara",
+          "message": "The guide text is perfect for beginners."
+        }
+      ]
+    },
+    {
+      "id": "golden-temple",
+      "name": "Golden Temple (Harmandir Sahib)",
+      "location": "Amritsar, Punjab",
+      "category": "Temples",
+      "unesco": false,
+      "description": "The Golden Temple is a landmark of Sikh faith, known for its radiant golden façade and serene reflections in the surrounding holy pool. Its open community spaces welcome visitors with a spirit of devotion and equality.\n\nThis virtual view focuses on the monument’s calm atmosphere and the way the surrounding water mirrors the golden structure.",
+      "images": [
+        {
+          "src": "https://placehold.co/1200x800/png?text=Golden+Temple",
+          "alt": "Golden Temple exterior"
+        },
+        {
+          "src": "https://placehold.co/1200x800/png?text=Holy+Pool+Reflections",
+          "alt": "Holy pool reflections"
+        },
+        {
+          "src": "https://placehold.co/1200x800/png?text=Temple+Architecture+And+Light",
+          "alt": "Temple architecture and light"
+        },
+        {
+          "src": "https://placehold.co/1200x800/png?text=Evening+Atmosphere+In+Amritsar",
+          "alt": "Evening atmosphere"
+        }
+      ],
+      "videoUrl": null,
+      "tourDescription": "Start near the holy pool and follow the guide inward—notice how light and water create the temple’s signature reflections.",
+      "comments": [
+        {
+          "name": "Kabir",
+          "message": "Beautiful atmosphere described in the tour guide."
+        },
+        {
+          "name": "Aanya",
+          "message": "Great place to start exploring Punjab’s heritage."
+        }
+      ]
+    }
+  ],
+  "quizQuestions": [
+    {
+      "id": "q1",
+      "question": "Which monument is located in Agra and was built by Shah Jahan?",
+      "options": ["Red Fort", "Taj Mahal", "Konark Sun Temple", "Golden Temple"],
+      "correctIndex": 1,
+      "explanation": "The Taj Mahal was commissioned by Shah Jahan in the 17th century."
+    },
+    {
+      "id": "q2",
+      "question": "Qutub Minar is located in which city?",
+      "options": ["Mumbai", "Delhi", "Chennai", "Kolkata"],
+      "correctIndex": 1,
+      "explanation": "Qutub Minar stands in Mehrauli, Delhi as part of the Qutb complex."
+    },
+    {
+      "id": "q3",
+      "question": "Hampi is in which Indian state?",
+      "options": ["Karnataka", "Kerala", "Rajasthan", "Bihar"],
+      "correctIndex": 0,
+      "explanation": "Hampi is located in Karnataka and is associated with the Vijayanagara Empire."
+    },
+    {
+      "id": "q4",
+      "question": "Konark Sun Temple is located in which state?",
+      "options": ["Odisha", "West Bengal", "Tamil Nadu", "Gujarat"],
+      "correctIndex": 0,
+      "explanation": "Konark Sun Temple is in Odisha."
+    },
+    {
+      "id": "q5",
+      "question": "The Red Fort is located in which city?",
+      "options": ["Jaipur", "Delhi", "Lucknow", "Hyderabad"],
+      "correctIndex": 1,
+      "explanation": "The Red Fort is in Delhi and is a symbol of Mughal-era grandeur."
+    },
+    {
+      "id": "q6",
+      "question": "Which of these is a UNESCO World Heritage site mentioned in this app?",
+      "options": ["Sanchi Stupa", "Hawa Mahal", "Brigade Road", "Marine Drive"],
+      "correctIndex": 0,
+      "explanation": "Sanchi Stupa is a UNESCO World Heritage site."
+    },
+    {
+      "id": "q7",
+      "question": "The Ajanta Caves are famous for which type of art?",
+      "options": ["Rock-cut architecture and murals", "Glass mosaics only", "Modern graffiti art", "Sand sculptures"],
+      "correctIndex": 0,
+      "explanation": "Ajanta is renowned for its murals and rock-cut cave architecture."
+    },
+    {
+      "id": "q8",
+      "question": "The Golden Temple is located in which city?",
+      "options": ["Amritsar", "Patna", "Bhopal", "Indore"],
+      "correctIndex": 0,
+      "explanation": "The Golden Temple is in Amritsar, Punjab."
+    }
+  ]
+}
+

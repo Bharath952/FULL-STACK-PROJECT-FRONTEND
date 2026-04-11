@@ -1,0 +1,27 @@
+.success-banner {
+  margin-bottom: 1.25rem;
+  padding: 0.85rem 1.1rem;
+  border-radius: var(--radius-md, 10px);
+  background: #e8f5e9;
+  color: #1b5e20;
+  font-weight: 600;
+  border: 1px solid #c8e6c9;
+}
+
+.saved-props-error {
+  color: #c62828;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.empty-saved {
+  padding: 2.5rem;
+  text-align: center;
+  border-radius: var(--radius-lg, 14px);
+  background: var(--card-bg, #fff);
+}
+
+.empty-saved .mt-1 {
+  margin-top: 1rem;
+  display: inline-block;
+}
