@@ -40,7 +40,11 @@ const Dashboard = () => {
     return heritageData.monuments;
   });
 
-  const [activeTab, setActiveTab] = useState('User');
+  const [activeTab, setActiveTab] = useState(() => {
+    if (user?.role === 'ADMIN') return 'Admin';
+    if (user?.role === 'CREATOR') return 'Creator';
+    return 'User';
+  });
 
   const categories = useMemo(() => {
     const unique = new Set(monuments.map((m) => m.category));
@@ -212,16 +216,23 @@ const Dashboard = () => {
             </div>
 
             <div className="dashboard-tabs">
-              {['Admin', 'Creator', 'User'].map((t) => (
-                <button
-                  key={t}
-                  type="button"
-                  className={`tab-btn ${activeTab === t ? 'active' : ''}`}
-                  onClick={() => setActiveTab(t)}
-                >
-                  {t}
-                </button>
-              ))}
+              {(() => {
+                const availableTabs = [];
+                if (user?.role === 'ADMIN') availableTabs.push('Admin', 'Creator', 'User');
+                else if (user?.role === 'CREATOR') availableTabs.push('Creator', 'User');
+                else availableTabs.push('User');
+                
+                return availableTabs.map((t) => (
+                  <button
+                    key={t}
+                    type="button"
+                    className={`tab-btn ${activeTab === t ? 'active' : ''}`}
+                    onClick={() => setActiveTab(t)}
+                  >
+                    {t}
+                  </button>
+                ));
+              })()}
             </div>
           </header>
 

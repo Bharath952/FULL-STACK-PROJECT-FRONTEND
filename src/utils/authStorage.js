@@ -9,3 +9,7 @@ export function getStoredUser() {
     return null;
   }
 }
+export function clearUser() {
+  localStorage.removeItem('user');
+  sessionStorage.removeItem('user');
+}

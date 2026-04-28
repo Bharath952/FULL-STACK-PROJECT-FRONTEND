@@ -135,4 +135,3 @@ const Monuments = () => {
 };
 
 export default Monuments;
-

@@ -12,20 +12,12 @@
       "description": "The Taj Mahal is a white marble mausoleum built by the Mughal emperor Shah Jahan in memory of his wife Mumtaz Mahal. Completed in the 17th century, it is renowned for its symmetry, intricate inlay work, and breathtaking dome and minarets.\n\nOften described as an icon of love and architectural mastery, the Taj Mahal draws visitors from around the world and remains one of India’s most celebrated heritage sites.",
       "images": [
         {
-          "src": "https://placehold.co/1200x800/png?text=Taj+Mahal",
-          "alt": "Taj Mahal main view"
+          "src": "/monuments/taj-mahal.jpg",
+          "alt": "Taj Mahal main facade"
         },
         {
-          "src": "https://placehold.co/1200x800/png?text=Craftsmanship+of+Taj+Mahal",
-          "alt": "Taj Mahal craftsmanship details"
-        },
-        {
-          "src": "https://placehold.co/1200x800/png?text=Taj+Mahal+at+Sunrise",
-          "alt": "Taj Mahal at sunrise"
-        },
-        {
-          "src": "https://placehold.co/1200x800/png?text=Yamuna+River+View",
-          "alt": "View near Yamuna riverfront"
+          "src": "https://images.unsplash.com/photo-1548013146-72479768bbaa?q=80&w=1200&auto=format&fit=crop",
+          "alt": "Taj Mahal reflecting pool"
         }
       ],
       "videoUrl": null,
@@ -50,20 +42,12 @@
       "description": "Qutub Minar is a soaring minaret that stands as part of the Qutb complex in Delhi. Built over several phases, it showcases early Indo-Islamic architecture with layered stonework and inscriptions.\n\nAs you explore, focus on the subtle changes in texture and the way the tower’s form transitions as it rises.",
       "images": [
         {
-          "src": "https://placehold.co/1200x800/png?text=Qutub+Minar",
-          "alt": "Qutub Minar tower"
+          "src": "/monuments/qutub-minar.jpg",
+          "alt": "Qutub Minar tower view"
         },
         {
-          "src": "https://placehold.co/1200x800/png?text=Architectural+Details",
-          "alt": "Architectural details of Qutub Minar"
-        },
-        {
-          "src": "https://placehold.co/1200x800/png?text=Qutb+Complex+Courtyard",
-          "alt": "Qutb complex courtyard"
-        },
-        {
-          "src": "https://placehold.co/1200x800/png?text=Inscriptions+and+Patterns",
-          "alt": "Inscriptions and patterns"
+          "src": "https://images.unsplash.com/photo-1620351336049-74e50eb9304c?q=80&w=1200&auto=format&fit=crop",
+          "alt": "Architectural details"
         }
       ],
       "videoUrl": null,
@@ -88,20 +72,12 @@
       "description": "Hampi is a remarkable landscape of ruins that once formed the core of the Vijayanagara Empire. Its massive stone structures, temples, and market streets tell stories of trade, culture, and devotion.\n\nIn this virtual experience, you’ll explore the legacy of a powerful city—crafted with bold architecture and surrounded by dramatic rock formations.",
       "images": [
         {
-          "src": "https://placehold.co/1200x800/png?text=Hampi+Ruin+City",
-          "alt": "Hampi ruins cityscape"
+          "src": "/monuments/hampi.png",
+          "alt": "Virupaksha Temple at Hampi"
         },
         {
-          "src": "https://placehold.co/1200x800/png?text=Stone+Temples+of+Hampi",
-          "alt": "Stone temples of Hampi"
-        },
-        {
-          "src": "https://placehold.co/1200x800/png?text=Rock+Formations+Around+Hampi",
-          "alt": "Rock formations around Hampi"
-        },
-        {
-          "src": "https://placehold.co/1200x800/png?text=Festival+Imagery+Inspired+by+Hampi",
-          "alt": "Festival-inspired scene"
+          "src": "https://images.unsplash.com/photo-1624388651030-cf2f4460d3d3?q=80&w=1200&auto=format&fit=crop",
+          "alt": "Stone temple"
         }
       ],
       "videoUrl": null,
@@ -126,20 +102,12 @@
       "description": "The Red Fort is a historic fortress built by the Mughal emperor Shah Jahan. Its distinctive red sandstone walls, grand gates, and ceremonial spaces represent the power and artistic vision of Mughal rule.\n\nAs you explore, imagine the daily rhythm of a royal capital—then focus on how architecture frames light, movement, and celebration.",
       "images": [
         {
-          "src": "https://placehold.co/1200x800/png?text=Red+Fort",
-          "alt": "Red Fort exterior"
+          "src": "/monuments/red-fort.png",
+          "alt": "Red Fort grand entrance"
         },
         {
-          "src": "https://placehold.co/1200x800/png?text=Fort+Gates+and+Walls",
-          "alt": "Fort gates and walls"
-        },
-        {
-          "src": "https://placehold.co/1200x800/png?text=Mughal+Architecture+Details",
-          "alt": "Mughal architecture details"
-        },
-        {
-          "src": "https://placehold.co/1200x800/png?text=Courtyard+Views",
-          "alt": "Courtyard views"
+          "src": "https://images.unsplash.com/photo-1598091383021-15ddea10925d?q=80&w=1200&auto=format&fit=crop",
+          "alt": "Red Fort evening"
         }
       ],
       "videoUrl": null,
@@ -164,20 +132,12 @@
       "description": "The Konark Sun Temple is celebrated for its grand chariot-like design and exquisite stone carvings. Built as a symbol of the Sun God, the temple’s architecture reflects both artistry and devotion.\n\nThough much of the structure has endured change over time, its carvings and layout remain a powerful testament to ancient Indian craftsmanship.",
       "images": [
         {
-          "src": "https://placehold.co/1200x800/png?text=Konark+Sun+Temple",
-          "alt": "Konark Sun Temple"
+          "src": "/monuments/konark-sun-temple.jpg",
+          "alt": "Sun Temple chariot wheel"
         },
         {
-          "src": "https://placehold.co/1200x800/png?text=Stone+Carvings",
+          "src": "https://images.unsplash.com/photo-1584551139785-f260f878f79f?q=80&w=1200&auto=format&fit=crop",
           "alt": "Stone carvings"
-        },
-        {
-          "src": "https://placehold.co/1200x800/png?text=Chariot+Inspired+Architecture",
-          "alt": "Chariot-inspired architecture"
-        },
-        {
-          "src": "https://placehold.co/1200x800/png?text=Temple+Details+at+Golden+Hour",
-          "alt": "Temple details at golden hour"
         }
       ],
       "videoUrl": null,
@@ -202,20 +162,12 @@
       "description": "The Ajanta Caves are known for their rock-cut architecture and stunning murals. Hidden inside a rugged landscape, the caves reveal stories through paintings and sculptural forms.\n\nIn this explorer, you’ll experience the visual journey—starting from the cave entrance and moving toward wall art that captures emotion and movement.",
       "images": [
         {
-          "src": "https://placehold.co/1200x800/png?text=Ajanta+Caves",
-          "alt": "Ajanta Caves entrance"
+          "src": "/monuments/ajanta-caves.jpg",
+          "alt": "Ajanta Cave entrance"
         },
         {
-          "src": "https://placehold.co/1200x800/png?text=Mural+Stories",
-          "alt": "Mural stories"
-        },
-        {
-          "src": "https://placehold.co/1200x800/png?text=Rock+Cut+Architecture",
-          "alt": "Rock cut architecture"
-        },
-        {
-          "src": "https://placehold.co/1200x800/png?text=Cave+Courtyard+Views",
-          "alt": "Cave views"
+          "src": "https://images.unsplash.com/photo-1626078328761-0738e4695039?q=80&w=1200&auto=format&fit=crop",
+          "alt": "Rock cut details"
         }
       ],
       "videoUrl": null,
@@ -240,20 +192,12 @@
       "description": "The Sanchi Stupa is one of the most important Buddhist monuments in India. Its hemispherical dome, beautifully preserved gateways, and carved stories reflect the spiritual and artistic traditions of ancient times.\n\nExplore the monument’s outer ring and gateways to understand how architecture and narrative sculpture work together.",
       "images": [
         {
-          "src": "https://placehold.co/1200x800/png?text=Sanchi+Stupa",
-          "alt": "Sanchi Stupa"
+          "src": "/monuments/sanchi-stupa.jpg",
+          "alt": "Great Stupa at Sanchi"
         },
         {
-          "src": "https://placehold.co/1200x800/png?text=Gateway+Carvings",
-          "alt": "Gateway carvings"
-        },
-        {
-          "src": "https://placehold.co/1200x800/png?text=Ancient+Buddhist+Architecture",
-          "alt": "Buddhist architecture"
-        },
-        {
-          "src": "https://placehold.co/1200x800/png?text=Temple+Courtyard+Scene",
-          "alt": "Courtyard scene"
+          "src": "https://images.unsplash.com/photo-1621644026362-e64e5261895b?q=80&w=1200&auto=format&fit=crop",
+          "alt": "Ancient gateway"
         }
       ],
       "videoUrl": null,
@@ -278,20 +222,12 @@
       "description": "The Golden Temple is a landmark of Sikh faith, known for its radiant golden façade and serene reflections in the surrounding holy pool. Its open community spaces welcome visitors with a spirit of devotion and equality.\n\nThis virtual view focuses on the monument’s calm atmosphere and the way the surrounding water mirrors the golden structure.",
       "images": [
         {
-          "src": "https://placehold.co/1200x800/png?text=Golden+Temple",
-          "alt": "Golden Temple exterior"
+          "src": "/monuments/golden-temple.jpg",
+          "alt": "Golden Temple at dusk"
         },
         {
-          "src": "https://placehold.co/1200x800/png?text=Holy+Pool+Reflections",
+          "src": "https://images.unsplash.com/photo-1595155705335-7790b561cda4?q=80&w=1200&auto=format&fit=crop",
           "alt": "Holy pool reflections"
-        },
-        {
-          "src": "https://placehold.co/1200x800/png?text=Temple+Architecture+And+Light",
-          "alt": "Temple architecture and light"
-        },
-        {
-          "src": "https://placehold.co/1200x800/png?text=Evening+Atmosphere+In+Amritsar",
-          "alt": "Evening atmosphere"
         }
       ],
       "videoUrl": null,
@@ -304,6 +240,28 @@
         {
           "name": "Aanya",
           "message": "Great place to start exploring Punjab’s heritage."
+        }
+      ]
+    },
+    {
+      "id": "kanaka-durga-temple",
+      "name": "Kanaka Durga Temple",
+      "location": "Vijayawada, Andhra Pradesh",
+      "category": "Temples",
+      "unesco": false,
+      "description": "The Kanaka Durga Temple is a famous Hindu temple dedicated to Goddess Kanaka Durga. Located on the Indrakeeladri hill on the banks of the Krishna River in Vijayawada, it is one of the many Shakti Peethas.\n\nThe temple is known for its beautiful architecture and its spiritual significance, especially during the Navaratri festival when thousands of pilgrims visit to seek blessings.",
+      "images": [
+        {
+          "src": "/monuments/kanaka-durga-temple.jpg",
+          "alt": "Kanaka Durga Temple main view"
+        }
+      ],
+      "videoUrl": null,
+      "tourDescription": "Explore the majestic Indrakeeladri hill—notice the intricate carvings on the temple gopuram and the serene view of the Krishna River below.",
+      "comments": [
+        {
+          "name": "Siva",
+          "message": "The hill view is breathtaking. The temple has such a peaceful energy."
         }
       ]
     }
@@ -364,6 +322,13 @@
       "options": ["Amritsar", "Patna", "Bhopal", "Indore"],
       "correctIndex": 0,
       "explanation": "The Golden Temple is in Amritsar, Punjab."
+    },
+    {
+      "id": "q9",
+      "question": "Kanaka Durga Temple is located on which hill?",
+      "options": ["Chamundi Hill", "Indrakeeladri Hill", "Tirumala Hill", "Nandi Hills"],
+      "correctIndex": 1,
+      "explanation": "The Kanaka Durga Temple is situated on the Indrakeeladri Hill in Vijayawada."
     }
   ]
 }

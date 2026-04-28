@@ -62,4 +62,3 @@ const MonumentCard = ({
 };
 
 export default MonumentCard;
-

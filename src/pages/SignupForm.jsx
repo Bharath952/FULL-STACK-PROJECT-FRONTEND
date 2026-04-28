@@ -23,7 +23,7 @@ const getPasswordStrength = (password) => {
 
 const SignupForm = ({ onSwitchToLogin }) => {
   const navigate = useNavigate();
-  const [formData, setFormData] = useState({ name: '', email: '', password: '' });
+  const [formData, setFormData] = useState({ name: '', email: '', password: '', role: 'USER' });
   const [showPassword, setShowPassword] = useState(false);
   const [errorMsg, setErrorMsg] = useState('');
   const [emailError, setEmailError] = useState('');
@@ -65,7 +65,7 @@ const SignupForm = ({ onSwitchToLogin }) => {
         name: formData.name.trim(),
         email: formData.email.trim(),
         password: formData.password,
-        role: 'USER'
+        role: formData.role
       };
       const { data: savedUser } = await API.post('/api/auth/signup', payload);
       const userToStore = {
@@ -135,6 +135,19 @@ const SignupForm = ({ onSwitchToLogin }) => {
               {emailError}
             </p>
           ) : null}
+        </div>
+        <div className="field">
+          <select
+            name="role"
+            value={formData.role}
+            onChange={handleChange}
+            className="role-select"
+            required
+          >
+            <option value="USER">I am a User</option>
+            <option value="CREATOR">I am a Creator</option>
+            <option value="ADMIN">I am an Admin</option>
+          </select>
         </div>
         <div className="field password-field">
           <input

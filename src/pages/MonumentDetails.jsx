@@ -281,4 +281,3 @@ const MonumentDetails = () => {
 };
 
 export default MonumentDetails;
-
